@@ -1,7 +1,7 @@
 # usr/bin/env python3
 # -*- coding:utf8 -*-
 
-__Author__='LIANG TAO'
+__Author__='Florent LIANG'
 __Date__='11/12/2019'
 
 """
