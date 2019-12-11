@@ -1,12 +1,12 @@
 # usr/bin/env python3
 # -*- coding:utf8 -*-
 
-__Author__='LIANG TAO'
+__Author__='Florent LIANG'
 __Date__='11/12/2019'
 
 """
 1. FizzBuzz game with deep learning
-2. 3的倍数fizz，5的倍数buzz，15的倍数fizzbuzz
+2. 3 for fizz，5 for buzz，15 for fizzbuzz
 """
 
 # declaration of library packages:
